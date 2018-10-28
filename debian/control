@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: BPMonoItalic.h
-Description: BPMonoItalic font for DisplayCore
+Description: BPMonoItalic
