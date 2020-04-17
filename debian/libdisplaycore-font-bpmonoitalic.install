@@ -1,13 +1,2 @@
-BPMonoItalic18.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic20.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic22.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic24.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic26.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic28.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic30.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic32.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic34.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic36.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic38.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic40.cpp libraries/DisplayCore/BPMonoItalic
-BPMonoItalic.h libraries/DisplayCore/BPMonoItalic
+src libraries/DisplayCore/BPMonoItalic
+library.properties libraries/DisplayCore/BPMonoItalic
